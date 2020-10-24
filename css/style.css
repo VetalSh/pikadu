@@ -450,4 +450,9 @@ body {
     order: 2;
     text-align: left;
   }
+  .add-buttons {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
 }
